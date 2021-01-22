@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  budgetapp-ios
+
+  Created by Eszter Szabó on 2021. 01. 22..
+  
+*/
+
+/* View header titles */
+
+"title_activity_main" = "Summary";
+"title_activity_category" = "CategoryActivity";
+"title_activity_element_details" = "ElementDetailsActivity";
+
+/* Opening page texts */
+"question_title" = "What brand of food, household product, clothing you come up with the most economically?";
+"introduction_text_first" = "See the difference between the most economical product and the price of the product you are used to buying.";
+"introduction_text_second" = "This way, you can easily summarize how much you have saved in a given category, broken down by period.";
+"get_started" = "Get started";
+
+/* Categories view */
+"no_categories_title" = "You have no categories yet";
+
+/* Dedicated category view */
+"no_elements_title" = "You have no elements yet for this category.";
+
+"in_all" ="In all";
+
+/* Error texts */
+"name_is_mandatory" = "Name is mandatory.";
+"name_is_reserved" = "This name is reserved. Please choose another.";
+"price_is_mandatory" ="Price is mandatory.";
+
+
+/* Dialog texts */
+"delete_category" = "Delete category";
+"new_category" ="New category";
+"rename_category" = "Rename category";
+"are_you_sure" = "Are you sure?";
+"delete_element" = "Delete element";
+"new_element" = "New element";
+"edit_element" ="Edit element";
+
+"original_product_price" ="Original product price";
+"cheaper_product_price" = "Cheaper product price";
+"original_product_name" ="Original product name";
+"cheaper_product_name" = "Cheaper product name";
+
+"currency" = "HUF";
+
+
